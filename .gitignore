@@ -1,0 +1,11 @@
+/bin/Debug/
+/obj/Debug/
+/obj/Container/
+/obj/HangfileService.csproj.nuget.g.props
+/.vs/HangfileService/
+/obj/HangfileService.csproj.nuget.dgspec.json
+/obj/HangfileService.csproj.nuget.g.targets
+/obj/project.assets.json
+/obj/project.nuget.cache
+/.vs/ProjectEvaluation/hangfileservice.metadata.v5.2
+/.vs/ProjectEvaluation/hangfileservice.projects.v5.2
